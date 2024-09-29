@@ -126,6 +126,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Asistente.cs" />
+    <Compile Include="Models\Clase_Prueba_git.cs" />
     <Compile Include="Models\Trabajador.cs" />
     <Compile Include="Models\Trabajador_4.cs" />
     <Compile Include="Models\Vendedor.cs" />
